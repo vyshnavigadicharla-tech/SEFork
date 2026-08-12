@@ -1,0 +1,22 @@
+From e2648eaaaeaa4d7d3d4242b3142dc9ce6815ddad Mon Sep 17 00:00:00 2001
+From: SowmyaBellamkonda <sowmyabellamkonda70@gmail.com>
+Date: Wed, 12 Aug 2026 22:08:29 +0530
+Subject: [PATCH 3/9] updating
+
+---
+ f1.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/f1.txt b/f1.txt
+index a35cb63..be03b8b 100644
+--- a/f1.txt
++++ b/f1.txt
+@@ -1,2 +1,3 @@
+ Hello 
+-I am creating conflict(p2)
+\ No newline at end of file
++I am creating conflict(p2) using fork
++
+-- 
+2.51.2.windows.1
+

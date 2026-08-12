@@ -1,0 +1,22 @@
+From 53e1395130820bcc53d09e382bc805df4c36430c Mon Sep 17 00:00:00 2001
+From: SowmyaBellamkonda <sowmyabellamkonda70@gmail.com>
+Date: Wed, 12 Aug 2026 23:25:10 +0530
+Subject: [PATCH 3/3] patch info
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index 8cec644..6c7b7c0 100644
+--- a/README.md
++++ b/README.md
+@@ -3,3 +3,5 @@
+ we are working on fork
+ This project was updated by Person 2. And I am person1 changing file
+ 
++Patch exercise completed by Person 2.
++
+-- 
+2.51.2.windows.1
+

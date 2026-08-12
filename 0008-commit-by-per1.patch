@@ -1,0 +1,23 @@
+From cd314e73acc4e5d107b2a639bb0ca677fe1c7234 Mon Sep 17 00:00:00 2001
+From: VyshanaviGadicherla <vyshnavigadicherla@gmail.com>
+Date: Wed, 12 Aug 2026 23:14:17 +0530
+Subject: [PATCH 8/9] commit by per1
+
+---
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index c4e1245..8cec644 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,5 @@
+ # SEFork
++
+ we are working on fork
+-This project was updated by Person 2. And I am person1
++This project was updated by Person 2. And I am person1 changing file
++
+-- 
+2.51.2.windows.1
+
